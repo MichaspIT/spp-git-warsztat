@@ -1,1 +1,2 @@
 pierwsze kroki zgit
+commit to migawka projektu
